@@ -1,9 +1,9 @@
 #foydalanuvchidan malumotlarni qabul qilamiz
-t_yil = int(input("Yilingizni kiriting: "))
-yil = 2024
+t_year = int(input("Yilingizni kiriting: "))
+year = 2024
 
 #Natijani Xisoblash jarayoni:
-result = yil - t_yil
+result = year - t_year
 
 # Natijani konsolga chiqarish
 print(f"Siz {result} yoshdasiz")
