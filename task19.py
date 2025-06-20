@@ -1,5 +1,5 @@
 #kerakli uzgaruvchilarni yaratib va foydalanuvchidan malumot qabul qilamiz
-text = input("Text kiriting:")
+text = input("Text kiriting:").lower()
 vowels = "aeiou"
 vowels_cound = 0
 
